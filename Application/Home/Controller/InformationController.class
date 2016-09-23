@@ -1,0 +1,11 @@
+<?php
+namespace Home\Controller;
+use Think\Controller;
+use Think\Exception;
+class InformationController extends Controller {
+	public function upload(){
+		$post = I('post');
+		D('Information')->upload($post);
+		$this->ajaxReturn('true');
+	}
+}
