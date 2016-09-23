@@ -10587,3 +10587,222 @@ INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
 NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
 NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
 
+[ 2016-09-23T16:42:57+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:07:34+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:08:21+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:11:22+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:11:53+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:14:03+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:14:12+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:15:29+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:19:10+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:19:18+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:20:12+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+ERR: 1054:Unknown column 'catid' in 'field list'
+ [ SQL语句 ] : SELECT `catid` FROM `account` 
+
+[ 2016-09-23T17:20:22+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:20:43+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:21:47+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:22:18+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:22:41+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+ERR: 1054:Unknown column 'sizedsp' in 'field list'
+ [ SQL语句 ] : SELECT `sizedsp` FROM `project` LIMIT 1  
+
+[ 2016-09-23T17:22:47+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+ERR: 1054:Unknown column 'sizedsp' in 'field list'
+ [ SQL语句 ] : SELECT `sizedsp` FROM `project` 
+
+[ 2016-09-23T17:23:02+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:24:02+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+ERR: 1054:Unknown column 'sizedsp' in 'field list'
+ [ SQL语句 ] : SELECT `sizedsp` FROM `project` 
+
+[ 2016-09-23T17:24:32+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:24:53+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:26:00+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:28:21+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+ERR: 1054:Unknown column 'method' in 'field list'
+ [ SQL语句 ] : SELECT `method` FROM `size` 
+
+[ 2016-09-23T17:28:46+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `name` FROM `size` 
+
+[ 2016-09-23T17:29:13+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+ERR: 1054:Unknown column 'sizedsp' in 'field list'
+ [ SQL语句 ] : SELECT `sizedsp` FROM `method` 
+
+[ 2016-09-23T17:29:25+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `name` FROM `size` 
+
+[ 2016-09-23T17:30:06+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:30:44+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+
+[ 2016-09-23T17:31:44+08:00 ] ::1 /thatsweb/thatsproj/bcs2/User/settings.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+NOTIC: [8] Use of undefined constant Log - assumed 'Log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 6 行.
+NOTIC: [8] Use of undefined constant log - assumed 'log' /Applications/MAMP/htdocs/thatsweb/thatsproj/bcs2/Application/Home/Conf/config.php 第 7 行.
+

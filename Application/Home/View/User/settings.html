@@ -101,31 +101,6 @@
   				</div>
   			</div>
 
-			<div class="row">
-		  		<div class="col-md-2 col-sm-3 col-xm-3">
-					<h4>Inv.Content:</h4>
-		  		</div>
-  				<div class="col-md-10 col-sm-9 col-xs-9">
-		  			<p>
-						<div id="inv-content">
-
-						</div>
-					</p>
-  				</div>
-  			</div>
-
-  			<div class="row">
-		  		<div class="col-md-2 col-sm-3 col-xm-3">
-					<h4>VAT Special Inv:</h4>
-		  		</div>
-  				<div class="col-md-10 col-sm-9 col-xs-9">
-		  			<p>
-						<div id="vat-special-inv">
-
-						</div>
-					</p>
-  				</div>
-  			</div>
 
   			<div class="row">
 		  		<div class="col-md-2 col-sm-3 col-xm-3">
@@ -140,18 +115,6 @@
   				</div>
   			</div>
 
-  			<div class="row">
-		  		<div class="col-md-2 col-sm-3 col-xm-3">
-					<h4>Copy:</h4>
-		  		</div>
-  				<div class="col-md-10 col-sm-9 col-xs-9">
-		  			<p>
-						<div id="copy">
-
-						</div>
-					</p>
-  				</div>
-  			</div>
 
 		  </div>
 		</div>
@@ -214,40 +177,30 @@
     	$(document).ready(function(){
     		// var settings =  $("input")
         $("#account").tags({
-		      suggestions: {$all_tag},
-		      tagData: {$selected_tag}
+		      suggestions: {$account},
+		      tagData: {$account}
 		    });
+
 		    $("#project").tags({
-		      suggestions: {$all_tag},
-		      tagData: {$selected_tag}
+		      suggestions: {$project},
+		      tagData: {$project}
 		    });
 		    $("#size").tags({
-		      suggestions: {$all_tag},
-		      tagData: {$selected_tag}
+		      suggestions: {$size},
+		      tagData: {$size}
 		    });
 		    $("#method").tags({
-		      suggestions: {$all_tag},
-		      tagData: {$selected_tag}
+		      suggestions: {$method},
+		      tagData: {$method}
 		    });
 		    $("#sales").tags({
-		      suggestions: {$all_tag},
-		      tagData: {$selected_tag}
+		      suggestions: {$sales},
+		      tagData: {$sales}
 		    });
-		    $("#inv-content").tags({
-		      suggestions: {$all_tag},
-		      tagData: {$selected_tag}
-		    });
-		    $("#vat-special-inv").tags({
-		      suggestions: {$all_tag},
-		      tagData: {$selected_tag}
-		    });
+
 		    $("#territory").tags({
-		      suggestions: {$all_tag},
-		      tagData: {$selected_tag}
-		    });
-		     $("#copy").tags({
-		      suggestions: {$all_tag},
-		      tagData: {$selected_tag}
+		      suggestions: {$territory},
+		      tagData: {$territory}
 		    });
 
 		    // 删除tag

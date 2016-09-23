@@ -134,31 +134,6 @@
   				</div>
   			</div>
 
-			<div class="row">
-		  		<div class="col-md-2 col-sm-3 col-xm-3">
-					<h4>Inv.Content:</h4>
-		  		</div>
-  				<div class="col-md-10 col-sm-9 col-xs-9">
-		  			<p>
-						<div id="inv-content">
-
-						</div>
-					</p>
-  				</div>
-  			</div>
-
-  			<div class="row">
-		  		<div class="col-md-2 col-sm-3 col-xm-3">
-					<h4>VAT Special Inv:</h4>
-		  		</div>
-  				<div class="col-md-10 col-sm-9 col-xs-9">
-		  			<p>
-						<div id="vat-special-inv">
-
-						</div>
-					</p>
-  				</div>
-  			</div>
 
   			<div class="row">
 		  		<div class="col-md-2 col-sm-3 col-xm-3">
@@ -173,18 +148,6 @@
   				</div>
   			</div>
 
-  			<div class="row">
-		  		<div class="col-md-2 col-sm-3 col-xm-3">
-					<h4>Copy:</h4>
-		  		</div>
-  				<div class="col-md-10 col-sm-9 col-xs-9">
-		  			<p>
-						<div id="copy">
-
-						</div>
-					</p>
-  				</div>
-  			</div>
 
 		  </div>
 		</div>
@@ -247,40 +210,30 @@
     	$(document).ready(function(){
     		// var settings =  $("input")
         $("#account").tags({
-		      suggestions: <?php echo ($all_tag); ?>,
-		      tagData: <?php echo ($selected_tag); ?>
+		      suggestions: <?php echo ($account); ?>,
+		      tagData: <?php echo ($account); ?>
 		    });
+
 		    $("#project").tags({
-		      suggestions: <?php echo ($all_tag); ?>,
-		      tagData: <?php echo ($selected_tag); ?>
+		      suggestions: <?php echo ($project); ?>,
+		      tagData: <?php echo ($project); ?>
 		    });
 		    $("#size").tags({
-		      suggestions: <?php echo ($all_tag); ?>,
-		      tagData: <?php echo ($selected_tag); ?>
+		      suggestions: <?php echo ($size); ?>,
+		      tagData: <?php echo ($size); ?>
 		    });
 		    $("#method").tags({
-		      suggestions: <?php echo ($all_tag); ?>,
-		      tagData: <?php echo ($selected_tag); ?>
+		      suggestions: <?php echo ($method); ?>,
+		      tagData: <?php echo ($method); ?>
 		    });
 		    $("#sales").tags({
-		      suggestions: <?php echo ($all_tag); ?>,
-		      tagData: <?php echo ($selected_tag); ?>
+		      suggestions: <?php echo ($sales); ?>,
+		      tagData: <?php echo ($sales); ?>
 		    });
-		    $("#inv-content").tags({
-		      suggestions: <?php echo ($all_tag); ?>,
-		      tagData: <?php echo ($selected_tag); ?>
-		    });
-		    $("#vat-special-inv").tags({
-		      suggestions: <?php echo ($all_tag); ?>,
-		      tagData: <?php echo ($selected_tag); ?>
-		    });
+
 		    $("#territory").tags({
-		      suggestions: <?php echo ($all_tag); ?>,
-		      tagData: <?php echo ($selected_tag); ?>
-		    });
-		     $("#copy").tags({
-		      suggestions: <?php echo ($all_tag); ?>,
-		      tagData: <?php echo ($selected_tag); ?>
+		      suggestions: <?php echo ($territory); ?>,
+		      tagData: <?php echo ($territory); ?>
 		    });
 
 		    // 删除tag

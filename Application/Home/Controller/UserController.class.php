@@ -198,11 +198,19 @@ class UserController extends Controller {
     }
 
     public function settings(){
-        $all_tag = ["alpha", "bravo", "charlie", "delta", "echo", "foxtrot", "golf", "hotel", "india", "shanghai","alpha", "bravo", "charlie", "delta", "echo", "foxtrot", "golf", "hotel", "india", "shanghai","alpha", "bravo", "charlie", "delta", "echo", "foxtrot", "golf", "hotel", "india", "shanghai"];
-        // $account_tags = M('account')->select();
+        $account = D('account')->getField('companyname',true);
+        $project = D('project')->getField('projectname', true);
+        $size =  D('size')->getField('sizedsp', true);
+        $method = D('method')->getField('method', true);
+        $sales = D('sales')->getField('name', true);
+        $territory = D('territory')->getField('tdescription', true);
 
-        $this->assign("all_tag",json_encode($all_tag));
-        $this->assign("selected_tag",json_encode($all_tag));
+        $this->assign("account",json_encode($account));
+        $this->assign("project",json_encode($project));
+        $this->assign("size",json_encode($size));
+        $this->assign("method",json_encode($method));
+        $this->assign("sales",json_encode($sales));
+        $this->assign("territory",json_encode($territory));
         $this->display();
     }
 }
